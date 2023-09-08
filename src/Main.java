@@ -10,7 +10,7 @@ public class Main {
         arr_do(sc);
         print_args(args);
         harmonic_series();
-        System.out.println(fact(0));
+        //System.out.println(fact(0));
     }
 
     public static void arr_for(Scanner sc) {
